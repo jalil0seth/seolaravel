@@ -39,7 +39,12 @@ Detect main content
 Require this package in your `composer.json` and update composer.
 
 ```php
-"madeitbelgium/seo-analyzer": "^0.4"
+"jalil0seth/seolaravel": "^0.4"
+```
+```php
+composer require jalil0seth/seolaravel
+or 
+COMPOSER_MEMORY_LIMIT=-1 composer require jalil0seth/seolaravel
 ```
 
 # Documentation
